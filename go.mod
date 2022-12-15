@@ -20,7 +20,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/sigstore/sigstore v1.4.6
 	github.com/spiffe/go-spiffe/v2 v2.1.1
-	github.com/spiffe/spire-api-sdk v1.5.0
+	github.com/spiffe/spire-api-sdk v1.5.2
 	github.com/tektoncd/plumbing v0.0.0-20220817140952-3da8ce01aeeb
 	go.opencensus.io v0.24.0
 	go.uber.org/zap v1.24.0
@@ -166,7 +166,7 @@ require (
 	golang.org/x/crypto v0.3.0
 	golang.org/x/mod v0.6.0 // indirect
 	golang.org/x/net v0.2.0 // indirect
-	golang.org/x/sync v0.1.0 // indirect
+	golang.org/x/sync v0.1.0
 	golang.org/x/sys v0.2.0 // indirect
 	golang.org/x/term v0.2.0 // indirect
 	golang.org/x/text v0.4.0 // indirect
